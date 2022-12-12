@@ -1,4 +1,4 @@
-﻿namespace YoutubeAudioVideoDownloader
+﻿namespace YoutubeDownloader
 {
     partial class Form1
     {
@@ -93,7 +93,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Padding = new System.Windows.Forms.Padding(22, 80, 22, 27);
-            this.Text = "Youtube Audio & Video Downloader";
+            this.Text = "Youtube Downloader";
             ((System.ComponentModel.ISupportInitialize)(this.metroStyleManager1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
