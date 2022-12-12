@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Youtube_Audio_Video_Downloader
+namespace YoutubeAudioVideoDownloader
 {
     static class Program
     {

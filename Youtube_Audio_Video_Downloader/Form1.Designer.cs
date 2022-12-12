@@ -1,4 +1,4 @@
-﻿namespace Youtube_Audio_Video_Downloader
+﻿namespace YoutubeAudioVideoDownloader
 {
     partial class Form1
     {
@@ -53,7 +53,7 @@
             this.YoutubeURL_textBox.Location = new System.Drawing.Point(14, 75);
             this.YoutubeURL_textBox.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.YoutubeURL_textBox.Name = "YoutubeURL_textBox";
-            this.YoutubeURL_textBox.Size = new System.Drawing.Size(402, 27);
+            this.YoutubeURL_textBox.Size = new System.Drawing.Size(402, 23);
             this.YoutubeURL_textBox.TabIndex = 2;
             // 
             // metroStyleManager1
@@ -73,14 +73,14 @@
             this.Converter_comboBox.Location = new System.Drawing.Point(422, 75);
             this.Converter_comboBox.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Converter_comboBox.Name = "Converter_comboBox";
-            this.Converter_comboBox.Size = new System.Drawing.Size(136, 28);
+            this.Converter_comboBox.Size = new System.Drawing.Size(136, 25);
             this.Converter_comboBox.TabIndex = 1;
             this.Converter_comboBox.Text = "MP3";
             // 
             // Form1
             // 
             this.AcceptButton = this.Download_button;
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(709, 120);
             this.Controls.Add(this.YoutubeURL_textBox);

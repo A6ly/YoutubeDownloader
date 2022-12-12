@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Youtube_Audio_Video_Downloader.Properties
+namespace YoutubeAudioVideoDownloader.Properties
 {
 
 

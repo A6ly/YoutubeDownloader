@@ -11,7 +11,7 @@ using System.Windows.Forms;
 using MetroFramework.Forms;
 using VideoLibrary;
 
-namespace Youtube_Audio_Video_Downloader
+namespace YoutubeAudioVideoDownloader
 {
     public partial class Form1 : MetroForm
     {

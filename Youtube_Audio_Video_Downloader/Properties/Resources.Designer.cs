@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Youtube_Audio_Video_Downloader.Properties
+namespace YoutubeAudioVideoDownloader.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Youtube_Audio_Video_Downloader.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Youtube_Audio_Video_Downloader.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("YoutubeAudioVideoDownloader.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
