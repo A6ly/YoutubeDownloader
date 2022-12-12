@@ -1,6 +1,6 @@
 # YoutubeDownloader
 
-- Convert and download Youtube images using VideoLibrary</br>
+- Convert and download YouTube videos using the video library</br>
 
 - Using the Metro UI Framework</br>
 
